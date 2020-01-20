@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Current Week</string>
+    <string name="what_s_the_current_week_number">What’s the Current Week Number?</string>
+    <string name="check">Check</string>
+    <string name="mensaje">TextView</string>
+    <string name="ingresa_un_nuemero">Ingresa un Nuemero</string>
+</resources>
